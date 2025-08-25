@@ -511,8 +511,8 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 30px;
-  height: 30px;
+  width: 24px;
+  height: 24px;
   background-color: var(--accent);
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
@@ -554,7 +554,11 @@ img {
 }
 
 .form-field {
-  margin-bottom: 18px;
+  margin-bottom: 8px;
+}
+
+.form-field2 {
+  margin-bottom: 16px;
 }
 
 .form-label {
