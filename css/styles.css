@@ -482,7 +482,7 @@ img {
   z-index: 999;
 }
 
-.backdrop.is-hidden {
+.backdrop.is-open {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;

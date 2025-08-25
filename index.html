@@ -322,7 +322,7 @@
     </section>
   </main>
   <!-- Modal Window -->
-  <div class="backdrop is-oppen" data-modal>
+  <div class="backdrop" data-modal>
     <div class="modal">
       <button type="button" class="modal-close-btn" data-modal-close>
         <svg class="modal-close-icon" width="8" height="8">
@@ -496,7 +496,7 @@
     }
 
     function toggleModal() {
-      refs.modal.classList.toggle('is-hidden');
+      refs.modal.classList.toggle('is-open');
     }
   </script>
 </body>
