@@ -73,7 +73,9 @@
 <path d="M28.1 7.2l-15.7 15.7-7.1-7.1-2.3 2.3 9.4 9.4 18-18z" fill="currentColor"/>
 </symbol>
 <symbol id="icon-send" viewBox="0 0 32 32">
-<path d="M3.7 15.9l24.6-9.8-15.4 15.4v-8.5l-8.1-8.1 8.1 8.1h-8.5l9.8-9.8z" fill="currentColor"/>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M24 2L0 13.25L7.66994 15.6172L19.5 6.375L10.5017 16.4913L10.509 16.4936L10.5 16.4913V22L14.8013 17.8183L20.2501 19.5L24 2Z" fill="white"/>
+</svg>
 </symbol>
 
 </defs>
