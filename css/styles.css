@@ -557,8 +557,8 @@ img {
   margin-bottom: 8px;
 }
 
-.form-field2 {
-  margin-bottom: 16px;
+.form-field.form-field-comment {
+    margin-bottom: 16px;
 }
 
 .form-label {
